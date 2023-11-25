@@ -36,9 +36,10 @@ git tracks changes to your files so it won't 'git add <file> if <file> hasn't ch
 Note: the site isn't available by default. You have to specify the source. see here:
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
-### Point Seven - add boilerplate code
+### Point Seven - add boilerplate code *done*
 Since we're doing this by the book I'm starting from scratch with boilerplate. I'll add in stuff from what I did the first time round though.
 
+### Point Eight - commit initial coding *done*
 Add command is
 git add <file>
 or git add .
@@ -51,6 +52,12 @@ Push command is
 git push -u origin main
 
 Note: This page reverses the norm of black text on a white background. Try setting CSS rules color: white and background-color: black before you do anything else.
+
+### Points Nine to Eleven *done*
+
+### Point Twelve - add footer *done*
+
+### Point Thirteen - wrapping up
 
 
 
