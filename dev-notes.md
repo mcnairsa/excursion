@@ -45,6 +45,20 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a
 ### Point Seven - add boilerplate code
 Since we're doing this by the book I'm starting from scratch with boilerplate. I'll add in stuff from what I did the first time round though.
 
+Add command is
+git add <file>
+or git add .
+	will add everything
+
+Commit command is
+git commit -m "<commit message>"
+
+Push command is
+git push -u origin main
+
+Note: This page reverses the norm of black text on a white background. Try setting CSS rules color: white and background-color: black before you do anything else.
+
+
 
 202311083400
 ------------
