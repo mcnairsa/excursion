@@ -26,15 +26,25 @@ Note: make sure the files are created in the correct directories.
 ### Point Five - commit files *done*
 
 ### Point Six - create remote repo *done*
-Named excursion per instructions but how about 'symmetrical-eureka' instead?
+Named the repo excursion per instructions but how about 'symmetrical-eureka' instead?
 Note: the ' ... instructions to add an existing Git repository ...' are not on the screen where you create the repo. The instructions to follow are on the next screen under the heading '…or push an existing repository from the command line'.
 Note: you may be asked to authenticate; that is outside the scope of these notes
 Q: is it somewhere in an earlier Cc lesson on this skill path?
 Q: will my changes to this file post commit be included in what I push? I doubt it.
 
 Followed instructions as above.
-No the recent changes are not included.
+No, the recent changes are not included.
 Note/Word-to-the-Wise: the git repo is a set of links to local files on your development box [aka 'machine', i.e. your computer]. The stuff in your local repo is no more backed up than the files you edit. Pushing to remote, however, does create another copy of the files.
+
+Aside - a note about git since that's a big part of this lesson:
+git tracks changes to your files so it won't 'git add <file> if <file> hasn't changed ... neat, huh?
+
+Note: the site isn't available by default. You have to specify the source. see here:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+### Point Seven - add boilerplate code
+Since we're doing this by the book I'm starting from scratch with boilerplate. I'll add in stuff from what I did the first time round though.
+
 
 202311083400
 ------------
